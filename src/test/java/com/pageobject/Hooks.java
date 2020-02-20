@@ -5,6 +5,8 @@ import org.junit.After;
 import org.junit.Before;
 
 public class Hooks {
+
+    
     DriverFactory factory=new DriverFactory();
     @Before
     public void setup()
@@ -13,7 +15,7 @@ public class Hooks {
         factory.navigateTo("https://www.argos.co.uk/");
         factory.maxiBrowser();
     }
-    @After
+   // @After
     public void tearDown()
     {
         factory.closeBrowser();

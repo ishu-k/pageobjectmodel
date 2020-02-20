@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82de0c29-0058-44a2-b892-72e7043c5b7b" name="Default Changelist" comment="" />
+    <list default="true" id="82de0c29-0058-44a2-b892-72e7043c5b7b" name="Default Changelist" comment="challengetasksadded">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/SmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/SmokeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/ProductDescriptionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/ProductDescriptionPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/ResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/ResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/TrolleyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/TrolleyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/SmokeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/SmokeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/ProductDescriptionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/ProductDescriptionPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/ResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/ResultPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/TrolleyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/TrolleyPage.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +40,7 @@
   </component>
   <component name="ProjectId" id="1Xy7m6SMJ4Rjr6dbPabYmBzrOb0" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -40,38 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SmokeTest.searchTest">
-    <configuration name="HomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Pageobjectmodel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pageobject.pages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pageobject.pages" />
-      <option name="MAIN_CLASS_NAME" value="com.pageobject.pages.HomePage" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomePage.doSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Pageobjectmodel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pageobject.pages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pageobject.pages" />
-      <option name="MAIN_CLASS_NAME" value="com.pageobject.pages.HomePage" />
-      <option name="METHOD_NAME" value="doSearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SmokeTest.challengeTask2">
     <configuration name="SmokeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pageobjectmodel" />
       <extension name="coverage">
@@ -103,6 +89,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmokeTest.challengeTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pageobject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pageobject" />
+      <option name="MAIN_CLASS_NAME" value="com.pageobject.SmokeTest" />
+      <option name="METHOD_NAME" value="challengeTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest.challengeTask2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pageobject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pageobject" />
+      <option name="MAIN_CLASS_NAME" value="com.pageobject.SmokeTest" />
+      <option name="METHOD_NAME" value="challengeTask2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SmokeTest.searchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pageobjectmodel" />
       <extension name="coverage">
@@ -121,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SmokeTest.challengeTask2" />
+        <item itemvalue="JUnit.SmokeTest.challengeTask" />
         <item itemvalue="JUnit.SmokeTest.searchTest" />
         <item itemvalue="JUnit.SmokeTest" />
         <item itemvalue="JUnit.SmokeTest.basketTest" />
-        <item itemvalue="JUnit.HomePage" />
-        <item itemvalue="JUnit.HomePage.doSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -141,5 +159,20 @@
       <updated>1582006636246</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="challengetasksadded" />
+    <option name="LAST_COMMIT_MESSAGE" value="challengetasksadded" />
   </component>
 </project>

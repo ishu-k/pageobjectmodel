@@ -55,6 +55,23 @@ public class ResultPage  extends DriverFactory {
         return productWebElements;
 
     }
+    public double totalPrice()
+    {
+        String price1=driver.findElement(By.cssSelector("div.Summary__subTotalLabel__2GphY")).getText();
+        System.out.println(price1);
+        String actual=price1.replaceAll("£"," ");
+        //converting string to double
+        double actual1=Double.parseDouble(actual);
+        System.out.println(actual1);
+        return actual1;
+    }
+    public int numberofProductsInBasket()
+    {
+        String expected= driver.findElement(By.xpath("//header[@id='haas-v2']//a[4]/span[1]")).getText();
+        System.out.println(expected);
+        int actual1=Integer.parseInt(expected);
+        return actual1;
+    }
     
-
+    
 }

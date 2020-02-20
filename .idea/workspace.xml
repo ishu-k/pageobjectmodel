@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82de0c29-0058-44a2-b892-72e7043c5b7b" name="Default Changelist" comment="challengetasksadded">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/SmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/SmokeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/ProductDescriptionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/ProductDescriptionPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/ResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/ResultPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/TrolleyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/TrolleyPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/Hooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/SmokeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/SmokeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/ProductDescriptionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/ProductDescriptionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/ResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/ResultPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/TrolleyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/TrolleyPage.class" afterDir="false" />
-    </list>
+    <list default="true" id="82de0c29-0058-44a2-b892-72e7043c5b7b" name="Default Changelist" comment="challengetasksadded" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

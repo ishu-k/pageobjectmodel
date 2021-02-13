@@ -22,7 +22,4 @@ public class ProductDescriptionPage extends DriverFactory {
         System.out.println(expected);
         return expected;
     }
-
-
-
 }

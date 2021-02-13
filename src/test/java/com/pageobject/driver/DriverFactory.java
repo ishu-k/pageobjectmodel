@@ -29,16 +29,12 @@ public class DriverFactory  {
         }
     }
 
-
     public void navigateTo(String url){
         driver.get(url);
     }
-
     public void maxiBrowser(){
         driver.manage().window().maximize();
     }
-
-
     public void closeBrowser(){
         driver.quit();
     }

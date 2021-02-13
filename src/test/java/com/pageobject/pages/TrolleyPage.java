@@ -13,7 +13,6 @@ public class TrolleyPage extends DriverFactory {
         driver.findElement(By.cssSelector("button[data-test='component-att-button']")).click();
     }
 
-
     public void goToTrolley() throws InterruptedException {
         Thread.sleep(5000);
         driver.findElement(By.cssSelector(".xs-row a[data-test='component-att-button-basket']")).click();

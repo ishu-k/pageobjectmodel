@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82de0c29-0058-44a2-b892-72e7043c5b7b" name="Default Changelist" comment="challengetasksadded" />
+    <list default="true" id="82de0c29-0058-44a2-b892-72e7043c5b7b" name="Default Changelist" comment="challengetasksadded">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/driver/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/driver/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/ProductDescriptionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/ProductDescriptionPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/TrolleyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pageobject/pages/TrolleyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/driver/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/driver/DriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/TrolleyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pageobject/pages/TrolleyPage.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SmokeTest.challengeTask2">
+  <component name="RunManager" selected="JUnit.SmokeTest.challengeTask">
     <configuration name="SmokeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pageobjectmodel" />
       <extension name="coverage">
@@ -126,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SmokeTest.challengeTask2" />
         <item itemvalue="JUnit.SmokeTest.challengeTask" />
+        <item itemvalue="JUnit.SmokeTest.challengeTask2" />
         <item itemvalue="JUnit.SmokeTest.searchTest" />
         <item itemvalue="JUnit.SmokeTest" />
         <item itemvalue="JUnit.SmokeTest.basketTest" />
@@ -152,7 +159,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
